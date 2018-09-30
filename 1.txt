@@ -1,0 +1,53 @@
+commit 1b9e0f145c0bac5a43a8414e433c30dc469eec66
+Author: kshitij kumar <kshitijk83@gmail.com>
+Date:   Sun Sep 30 10:55:26 2018 +0530
+
+    revert2
+
+commit 3b977d62b1ba96b8ec1c47d2496aebcb27b500db
+Author: kshitij kumar <kshitijk83@gmail.com>
+Date:   Sun Sep 30 10:54:38 2018 +0530
+
+    revert1
+
+commit 846a9ecaeee209b7b21441d529509cb1a85a707e
+Author: kshitij kumar <kshitijk83@gmail.com>
+Date:   Sun Sep 30 10:18:41 2018 +0530
+
+    adding for rebasing
+
+commit cdc5603d5d6a18582646a712e1566ab77225f2bf
+Author: kshitij kumar <kshitijk83@gmail.com>
+Date:   Sun Sep 30 10:08:30 2018 +0530
+
+    modifying edu4
+
+commit 832c6bcbf54c257de1c0e29cd1020f3cf83b3d70
+Author: kshitij kumar <kshitijk83@gmail.com>
+Date:   Sun Sep 30 09:54:43 2018 +0530
+
+    making changes to firstbranch
+
+commit 904618771c61066a973a14776d239197e26af718
+Author: kshitij kumar <kshitijk83@gmail.com>
+Date:   Sun Sep 30 09:46:27 2018 +0530
+
+    adding 3 files together
+
+commit b1e7c66781de799cfaae93df75259c917379483a
+Author: kshitij kumar <kshitijk83@gmail.com>
+Date:   Sun Sep 30 09:41:18 2018 +0530
+
+    adding first commit in local repo
+
+commit 86ee5b2694d24ecdb0908e33bc9eea456b64ea13
+Author: kshitijk83 <32035239+kshitijk83@users.noreply.github.com>
+Date:   Sun Sep 30 09:15:53 2018 +0530
+
+    Update README.md
+
+commit 9fca3676b755178bf98856882ee4adc629a00037
+Author: kshitijk83 <32035239+kshitijk83@users.noreply.github.com>
+Date:   Sun Sep 30 09:14:46 2018 +0530
+
+    Initial commit
